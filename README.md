@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product Design
 - 🌱 I’m currently undergoing an internship aimed at honing my design skills
 - 💞️ I’m looking to work as a Junior Product Designer
-- 📫 How to reach me 
+- 📫 You can reach me via my e-mail address georgechisomprincess@gmail.com
 
 <!---
 ChisomGeorge/ChisomGeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
